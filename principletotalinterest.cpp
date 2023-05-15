@@ -13,7 +13,6 @@ int Amount_of_Intreast;
 int Amount_of_Principle;
 float Rate_of_interest;
 int Time_period;
-
 cout<<"Enter Principle : ";
 cin>>Amount_of_Principle;
 cout<<"Enter Rate Of Intrest : ";

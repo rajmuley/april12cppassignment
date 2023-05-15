@@ -12,7 +12,7 @@ int main(){
 
 cout<<"Enter Radious of cylinder : ";
 cin>>cylinder_radius;
-    cylinder_circumference=(3.14*cylinder_radius)*2;
+    cylinder_circumference=2*(3.14*cylinder_radius);
     
 cout<<"cylinder circumference is : "<<cylinder_circumference<<" cm";
     return 0;
